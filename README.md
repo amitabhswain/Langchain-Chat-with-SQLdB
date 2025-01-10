@@ -2,6 +2,8 @@
 
 A versatile application that enables natural language interactions with SQL databases using LangChain's SQL toolkit and agent capabilities.
 
+App in action : https://langchain-chat-with-sqldb-5atyglzqjdmijfnw63azjk.streamlit.app/
+
 **Key Features**
 
 
